@@ -31,13 +31,13 @@ The objective of this Week 04 task is to perform basic data analysis and visuali
 
 ## Files
 
-- `week04.ipynb` - Google Colab notebook containing the complete Week 04 task.
+- `week04_fixed(1).ipynb` - Google Colab notebook containing the complete Week 04 task.
 - `Activity 01 (Responses).csv` - Dataset used for the analysis.
 - `README.md` - Project documentation.
 
 ## How to Run
 
-1. Open `week04.ipynb` in Google Colab.
+1. Open `week04_fixed(1).ipynb` in Google Colab.
 2. Upload `Activity 01 (Responses).csv`.
 3. Run the notebook cells from top to bottom.
 4. View the generated analysis and visualizations.
@@ -53,7 +53,7 @@ The notebook generates different visualizations including:
 
 ## Author
 
-**Anees Ur Rahman**
+**Abdullah**
 
 ## Course Task
 
